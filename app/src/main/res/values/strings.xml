@@ -1,3 +1,111 @@
 <resources>
     <string name="app_name">My Weather</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="searchFilterCity">Search</string>
+    <string name="menuDisplayMap">DisplayMap</string>
+    <string name="menuSearchAnyCity">any City</string>
+
+    <string-array name="City_name">
+        <item>Cairo</item>
+        <item>Bilbays</item>
+        <item>Giza</item>
+        <item>Az Zaqaziq</item>
+        <item>Bilqas</item>
+        <item>Alexandria,EG</item>
+        <item>Port Said</item>
+        <item>Suez</item>
+        <item>Al Mahallah al Kubra</item>
+        <item>Luxor</item>
+        <item>Asyut</item>
+        <item>Al Mansurah</item>
+        <item>Tanda,EG</item>
+        <item>Al Fayyum</item>
+        <item>Ismailia</item>
+        <item>Kafr ad Dawwar</item>
+        <item>Aswan</item>
+        <item>Qena</item>
+        <item>Helwan</item>
+        <item>Damanhur</item>
+        <item>Al Minya</item>
+        <item>Sohag</item>
+        <item>Bani Suwayf</item>
+        <item>Shibin al Kawm</item>
+        <item>Banha</item>
+        <item>Talkha</item>
+        <item>Kafr ash Shaykh</item>
+        <item>Mallawi</item>
+        <item>Dikirnis</item>
+        <item>Idfu</item>
+        <item>Abu Kabir,EG</item>
+        <item>Qalyub</item>
+        <item>Al Matariyah,EG</item>
+        <item>Zifta</item>
+        <item>Samalut</item>
+        <item>Hawsh Isa</item>
+        <item>Minuf</item>
+        <item>Ashmun</item>
+        <item>Manfalut</item>
+        <item>Kafr az Zayyat</item>
+        <item>Abu Tij</item>
+        <item>Isna</item>
+        <item>Abnub</item>
+        <item>Al Qusiyah</item>
+        <item>Al Jamaliyah</item>
+        <item>Dayrut</item>
+        <item>Al Kharijah</item>
+        <item>Toukh</item>
+        <item>Al Manzilah,EG</item>
+        <item>Rosetta</item>
+        <item>Awsim</item>
+        <item>Al Fashn</item>
+        <item>Faqus</item>
+        <item>Al Khankah</item>
+        <item>Marsa Matruh</item>
+        <item>Al Qurayn,EG</item>
+        <item>Abu Qurqas</item>
+        <item>Al Manshah</item>
+        <item>Kousa</item>
+        <item>Kawm Umbu</item>
+        <item>Faraskur</item>
+        <item>Bani Mazar</item>
+        <item>Minyat an Nasr</item>
+        <item>Shibin al Qanatir</item>
+        <item>Al Qanatir al Khayriyah</item>
+        <item>Basyun</item>
+        <item>Samannud</item>
+        <item>Shirbin</item>
+        <item>Dishna</item>
+        <item>Farshut</item>
+        <item>Diyarb Najm</item>
+        <item>At Tall al Kabir</item>
+        <item>Ibshaway</item>
+        <item>Balyana</item>
+        <item>Sidi Salim</item>
+        <item>Juhaynah</item>
+        <item>Tamiyah</item>
+        <item>Mashtul as Suq</item>
+        <item>Ain Sukhna</item>
+        <item>Matay</item>
+        <item>Al Badari</item>
+        <item>Hihya</item>
+        <item>Al Qanayat</item>
+        <item>Quwaysina</item>
+        <item>Madinat Sittah Uktubar</item>
+        <item>Abu al Matamir</item>
+        <item>Dayr Mawas</item>
+        <item>Ad Dilinjat</item>
+        <item>As Saff</item>
+        <item>Izbat al Burj</item>
+        <item>Sumusta as Sultani</item>
+        <item>Al Bajur</item>
+        <item>Kafr Saqr</item>
+        <item>Al Ayyat</item>
+        <item>Al Ibrahimiyah,EG</item>
+        <item>Bur Safajah</item>
+        <item>Al Qusayr,EG</item>
+        <item>Qutur</item>
+        <item>Al Bawiti</item>
+    </string-array>
+
 </resources>
